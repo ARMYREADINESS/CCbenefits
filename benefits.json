@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "updated": "2026-09-18",
+  "issuers": [
+    {
+      "name": "American Express",
+      "cards": [
+        {
+          "id": "amex-platinum",
+          "name": "Platinum Card",
+          "annualFee": 695,
+          "termsCheckedAt": null,
+          "benefits": [
+            { "id": "amex-plat-uber", "title": "Uber Cash", "details": "Added to your Uber account monthly; US rides and Uber Eats.", "value": 15, "cadence": "monthly", "trackPartial": false },
+            { "id": "amex-plat-digital", "title": "Digital entertainment credit", "details": "Enrolled partners only; charged to the card.", "value": 20, "cadence": "monthly", "trackPartial": true },
+            { "id": "amex-plat-walmart", "title": "Walmart+ membership", "details": "Monthly membership fee reimbursed; annual plans excluded.", "value": 12.95, "cadence": "monthly", "trackPartial": false },
+            { "id": "amex-plat-saks", "title": "Saks Fifth Avenue credit", "details": "Enrollment required; in store or online.", "value": 50, "cadence": "semiannual", "trackPartial": true },
+            { "id": "amex-plat-hotel", "title": "Hotel credit (FHR / THC)", "details": "Prepaid bookings of two nights or more through Amex Travel.", "value": 200, "cadence": "annualCalendar", "trackPartial": true },
+            { "id": "amex-plat-airline", "title": "Airline fee credit", "details": "Incidental fees on one airline you select each year. Airfare does not qualify.", "value": 200, "cadence": "annualCalendar", "trackPartial": true },
+            { "id": "amex-plat-clear", "title": "CLEAR Plus credit", "details": "Applied to a CLEAR Plus membership.", "value": 189, "cadence": "annualCalendar", "trackPartial": false },
+            { "id": "amex-plat-equinox", "title": "Equinox credit", "details": "Enrollment required; paid monthly up to the annual cap.", "value": 300, "cadence": "annualCalendar", "trackPartial": true }
+          ]
+        },
+        {
+          "id": "amex-gold",
+          "name": "Gold Card",
+          "annualFee": 325,
+          "termsCheckedAt": null,
+          "benefits": [
+            { "id": "amex-gold-dining", "title": "Dining credit", "details": "Enrolled partners only.", "value": 10, "cadence": "monthly", "trackPartial": true },
+            { "id": "amex-gold-uber", "title": "Uber Cash", "details": "US rides and Uber Eats.", "value": 10, "cadence": "monthly", "trackPartial": false },
+            { "id": "amex-gold-resy", "title": "Resy credit", "details": "US Resy restaurants; enrollment required.", "value": 50, "cadence": "semiannual", "trackPartial": true }
+          ]
+        },
+        {
+          "id": "amex-hilton-aspire",
+          "name": "Hilton Honors Aspire",
+          "annualFee": 550,
+          "termsCheckedAt": null,
+          "benefits": [
+            { "id": "aspire-resort", "title": "Hilton resort credit", "details": "Eligible resorts only.", "value": 200, "cadence": "semiannual", "trackPartial": true },
+            { "id": "aspire-airline", "title": "Airline flight credit", "details": "Flights booked through Amex Travel or directly with airlines, per terms.", "value": 50, "cadence": "quarterly", "trackPartial": true },
+            { "id": "aspire-clear", "title": "CLEAR Plus credit", "details": "Applied to a CLEAR Plus membership.", "value": 189, "cadence": "annualCalendar", "trackPartial": false }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chase",
+      "cards": [
+        {
+          "id": "chase-sapphire-reserve",
+          "name": "Sapphire Reserve",
+          "annualFee": 550,
+          "termsCheckedAt": null,
+          "benefits": [
+            { "id": "csr-travel", "title": "Annual travel credit", "details": "Applied automatically to the first travel purchases each year.", "value": 300, "cadence": "annualAnniversary", "trackPartial": true },
+            { "id": "csr-lyft", "title": "Lyft credit", "details": "Per terms; enrollment may be required.", "value": 25, "cadence": "monthly", "trackPartial": true },
+            { "id": "csr-precheck", "title": "TSA PreCheck / Global Entry credit", "details": "Once every four years.", "value": 120, "cadence": "oneTime", "trackPartial": false }
+          ]
+        },
+        {
+          "id": "chase-sapphire-preferred",
+          "name": "Sapphire Preferred",
+          "annualFee": 95,
+          "termsCheckedAt": null,
+          "benefits": [
+            { "id": "csp-hotel", "title": "Hotel credit", "details": "Hotel stays booked through Chase Travel.", "value": 50, "cadence": "annualAnniversary", "trackPartial": true }
+          ]
+        },
+        {
+          "id": "chase-marriott-boundless",
+          "name": "Marriott Bonvoy Boundless",
+          "annualFee": 95,
+          "termsCheckedAt": null,
+          "benefits": [
+            { "id": "boundless-night", "title": "Free night award", "details": "Up to 35,000 points; awarded each account anniversary.", "value": 0, "cadence": "annualAnniversary", "trackPartial": false }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Capital One",
+      "cards": [
+        {
+          "id": "capone-venture-x",
+          "name": "Venture X",
+          "annualFee": 395,
+          "termsCheckedAt": null,
+          "benefits": [
+            { "id": "vx-travel", "title": "Annual travel credit", "details": "Bookings through Capital One Travel.", "value": 300, "cadence": "annualAnniversary", "trackPartial": true },
+            { "id": "vx-anniversary", "title": "Anniversary miles", "details": "10,000 bonus miles each anniversary.", "value": 0, "cadence": "annualAnniversary", "trackPartial": false },
+            { "id": "vx-precheck", "title": "TSA PreCheck / Global Entry credit", "details": "Once every four years.", "value": 120, "cadence": "oneTime", "trackPartial": false }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Citi",
+      "cards": [
+        {
+          "id": "citi-strata-premier",
+          "name": "Strata Premier",
+          "annualFee": 95,
+          "termsCheckedAt": null,
+          "benefits": [
+            { "id": "strata-hotel", "title": "Annual hotel savings", "details": "Single hotel stay of $500 or more booked through Citi Travel.", "value": 100, "cadence": "annualCalendar", "trackPartial": false }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Navy Federal",
+      "cards": [
+        {
+          "id": "nfcu-flagship",
+          "name": "Flagship Rewards",
+          "annualFee": 49,
+          "termsCheckedAt": null,
+          "benefits": [
+            { "id": "nfcu-flagship-scra", "title": "Annual fee waived under SCRA", "details": "If eligible, the fee may be waived — confirm with Navy Federal.", "value": 49, "cadence": "annualAnniversary", "trackPartial": false }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "USAA",
+      "cards": [
+        {
+          "id": "usaa-eagle-navigator",
+          "name": "Eagle Navigator",
+          "annualFee": 95,
+          "termsCheckedAt": null,
+          "benefits": [
+            { "id": "usaa-travel", "title": "Annual travel credit", "details": "Per card terms.", "value": 120, "cadence": "annualAnniversary", "trackPartial": true }
+          ]
+        }
+      ]
+    }
+  ]
+}
