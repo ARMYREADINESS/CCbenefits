@@ -8,7 +8,7 @@
         {
           "id": "amex-platinum",
           "name": "Platinum Card",
-          "annualFee": 695,
+          "annualFee": 895,
           "termsCheckedAt": null,
           "benefits": [
             { "id": "amex-plat-uber", "title": "Uber Cash", "details": "Added to your Uber account monthly; US rides and Uber Eats.", "value": 15, "cadence": "monthly", "trackPartial": false },
