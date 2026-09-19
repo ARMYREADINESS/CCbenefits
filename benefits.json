@@ -12,13 +12,14 @@
           "termsCheckedAt": null,
           "benefits": [
             { "id": "amex-plat-uber", "title": "Uber Cash", "details": "Added to your Uber account monthly; US rides and Uber Eats.", "value": 15, "cadence": "monthly", "trackPartial": false },
-            { "id": "amex-plat-digital", "title": "Digital entertainment credit", "details": "Enrolled partners only; charged to the card.", "value": 20, "cadence": "monthly", "trackPartial": true },
+            { "id": "amex-plat-digital", "title": "Digital entertainment credit", "details": "Enrolled partners only; charged to the card.", "value": 25, "cadence": "monthly", "trackPartial": true },
             { "id": "amex-plat-walmart", "title": "Walmart+ membership", "details": "Monthly membership fee reimbursed; annual plans excluded.", "value": 12.95, "cadence": "monthly", "trackPartial": false },
-            { "id": "amex-plat-saks", "title": "Saks Fifth Avenue credit", "details": "Enrollment required; in store or online.", "value": 50, "cadence": "semiannual", "trackPartial": true },
+            { "id": "amex-plat-lulu", "title": "Lululemon Credit", "details": "Enrollment required; in store or online.", "value": 75, "cadence": "quarterly", "trackPartial": true },
             { "id": "amex-plat-hotel", "title": "Hotel credit (FHR / THC)", "details": "Prepaid bookings of two nights or more through Amex Travel.", "value": 200, "cadence": "annualCalendar", "trackPartial": true },
             { "id": "amex-plat-airline", "title": "Airline fee credit", "details": "Incidental fees on one airline you select each year. Airfare does not qualify.", "value": 200, "cadence": "annualCalendar", "trackPartial": true },
-            { "id": "amex-plat-clear", "title": "CLEAR Plus credit", "details": "Applied to a CLEAR Plus membership.", "value": 189, "cadence": "annualCalendar", "trackPartial": false },
-            { "id": "amex-plat-equinox", "title": "Equinox credit", "details": "Enrollment required; paid monthly up to the annual cap.", "value": 300, "cadence": "annualCalendar", "trackPartial": true }
+            { "id": "amex-plat-clear", "title": "CLEAR Plus credit", "details": "Applied to a CLEAR Plus membership.", "value": 219, "cadence": "annualCalendar", "trackPartial": false },
+            { "id": "amex-plat-equinox", "title": "Equinox credit", "details": "Enrollment required; paid monthly up to the annual cap.", "value": 300, "cadence": "annualCalendar", "trackPartial": true },
+            { "id": "amex-plat-resy", "title": "Resy Credit", "details": "US Resy restaurants; enrollment required.", "value": 100, "cadence": "quarterly", "trackPartial": true }
           ]
         },
         {
