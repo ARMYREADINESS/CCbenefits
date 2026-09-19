@@ -13,7 +13,7 @@
           "benefits": [
             { "id": "amex-plat-uber", "title": "Uber Cash", "details": "Added to your Uber account monthly; US rides and Uber Eats.", "value": 15, "cadence": "monthly", "trackPartial": false },
             { "id": "amex-plat-digital", "title": "Digital entertainment credit", "details": "Enrolled partners only; charged to the card.", "value": 25, "cadence": "monthly", "trackPartial": true },
-            { "id": "amex-plat-walmart", "title": "Walmart+ membership", "details": "Monthly membership fee reimbursed; annual plans excluded.", "value": 12.95, "cadence": "monthly", "trackPartial": false },
+            { "id": "amex-plat-walmart", "title": "Walmart+ membership", "details": "Monthly membership fee reimbursed; annual plans excluded.", "value": 12.00, "cadence": "monthly", "trackPartial": false },
             { "id": "amex-plat-lulu", "title": "Lululemon Credit", "details": "Enrollment required; in store or online.", "value": 75, "cadence": "quarterly", "trackPartial": true },
             { "id": "amex-plat-hotel", "title": "Hotel credit (FHR / THC)", "details": "Prepaid bookings of two nights or more through Amex Travel.", "value": 200, "cadence": "annualCalendar", "trackPartial": true },
             { "id": "amex-plat-airline", "title": "Airline fee credit", "details": "Incidental fees on one airline you select each year. Airfare does not qualify.", "value": 200, "cadence": "annualCalendar", "trackPartial": true },
